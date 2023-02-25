@@ -15,7 +15,7 @@ require (
 	github.com/lib/pq v1.8.0
 	github.com/rs/cors v1.7.0
 	github.com/spf13/viper v1.7.1
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/net v0.7.0
 	google.golang.org/genproto v0.0.0-20201113130914-ce600e9a6f9e
 	google.golang.org/grpc v1.33.2
 	google.golang.org/grpc/examples v0.0.0-20201112215255-90f1b3ee835b // indirect
